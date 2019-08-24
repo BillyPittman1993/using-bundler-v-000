@@ -9,8 +9,6 @@ gem "pry", :group => "development"
 
 group :test do
 gem "rspec"
-gem "rspec"
-gem "sinatra"
  
 group :development do
 gem "pry"
